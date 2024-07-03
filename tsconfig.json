@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "ES6",
+    "target": "ES5",
+    "allowJs": true,
+    "moduleResolution": "Node",
+    "jsx": "preserve"
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.ts",
+    "src/vue/**/*.vue",
+    "src/react/**/*.tsx",
+    "src/react/**/*.jsx"
+  ]
+}

@@ -1,7 +1,7 @@
 <template>
-    <div class="root">root</div>
+    <div class="w-full h-full overflow-hidden">root</div>
 </template>
 <script setup lang="ts">
 
 </script>
-<style scoped></style>
+<style lang="scss" scoped></style>
